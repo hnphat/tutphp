@@ -3,3 +3,6 @@ b2: I am write here
 b3: I am write here
 
 b2 rebase: update
+b3 rebase: update
+Appling Merge Code
+
