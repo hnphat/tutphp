@@ -1,3 +1,5 @@
 Test Git b1
 b2: I am write here
 b3: I am write here
+
+b2 rebase: update
